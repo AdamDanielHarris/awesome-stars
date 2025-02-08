@@ -1363,6 +1363,7 @@
 
 ## others 
 
+- [torinmb/mediapipe-touchdesigner](https://github.com/torinmb/mediapipe-touchdesigner) - GPU Accelerated MediaPipe Plugin for TouchDesigner
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [nix-community/pip2nix](https://github.com/nix-community/pip2nix) - Freeze pip-installable packages into Nix expressions [maintainer=@datakurre]
 - [nix-community/raspberry-pi-nix](https://github.com/nix-community/raspberry-pi-nix) - NixOS modules to aid in configuring NixOS for raspberry pi products
