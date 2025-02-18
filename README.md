@@ -54,6 +54,7 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [YAML](#yaml)
 - [Zig](#zig)
 
 ## Astro 
@@ -820,7 +821,6 @@
 - [ix-ai/smtp](https://github.com/ix-ai/smtp) - This is a SMTP docker container for sending emails. You can also relay emails to gmail and amazon SES.
 - [deajan/osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
 - [WSA-Community/WSA-Linux-Kernel](https://github.com/WSA-Community/WSA-Linux-Kernel) - Mirror for the Windows Subsystem for Android (WSA) kernel source code, and superuser
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [stevenkaras/bashfiles](https://github.com/stevenkaras/bashfiles) - My personal bashfiles - bash prompt, dotfiles, etc
 - [inline-arc/wifi-sh](https://github.com/inline-arc/wifi-sh) - bash script to get your wifi into a qrcode
 - [Brian-Lam/Logitech-MX-Master-Key-Mapper-Linux](https://github.com/Brian-Lam/Logitech-MX-Master-Key-Mapper-Linux) - In lieu of Logitech providing Linux drivers for the MX Master series mice, here is a script to set up key mappings.
@@ -860,6 +860,7 @@
 
 ## TypeScript 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -932,6 +933,10 @@
 
 - [ConorSheehan1/spelling-bee](https://github.com/ConorSheehan1/spelling-bee) - Free open source version of the New York Times Spelling Bee game
 - [ganttlab/ganttlab](https://github.com/ganttlab/ganttlab) - A live Gantt chart for GitLab and GitHub
+
+## YAML 
+
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 
 ## Zig 
 
