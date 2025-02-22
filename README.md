@@ -642,6 +642,7 @@
 - [openvax/pyensembl](https://github.com/openvax/pyensembl) - Python interface to access reference genome features (such as genes, transcripts, and exons) from Ensembl
 - [merbllab/PROMISE](https://github.com/merbllab/PROMISE) - PROMISE is a distributed pipeline to detect post-translation modification on Mass Spectrometry data. The pipeline is solely for academic research, non-commercial or educational purposes; for other use
 - [grst/containerize-conda](https://github.com/grst/containerize-conda) - Turn an existing conda environment into a Singularity container
+- [griffithlab/pVACtools](https://github.com/griffithlab/pVACtools) - 
 - [ambj/MuPeXI](https://github.com/ambj/MuPeXI) - MuPeXI: the mutant peptide extractor and informer, a tool for predicting neo-epitopes from tumor sequencing data.
 - [openvax/vaxrank](https://github.com/openvax/vaxrank) - Ranked vaccine peptides for personalized cancer immunotherapy
 - [TheWeirdDev/Bluetooth_Headset_Battery_Level](https://github.com/TheWeirdDev/Bluetooth_Headset_Battery_Level) - A python script to get battery level from Bluetooth headsets
@@ -738,7 +739,6 @@
 - [thelovelab/DESeq2](https://github.com/thelovelab/DESeq2) - Differential expression of RNA-seq data using the Negative Binomial
 - [thelovelab/tximport](https://github.com/thelovelab/tximport) - Transcript quantification import for modular pipelines
 - [ManuelHentschel/vscDebugger](https://github.com/ManuelHentschel/vscDebugger) - (Partial) Implementation of the Debug Adapter Protocol for R
-- [griffithlab/pVACtools](https://github.com/griffithlab/pVACtools) - 
 - [ruggleslab/rivet](https://github.com/ruggleslab/rivet) - Website source code for analysis of ribosome / polysome profiling
 - [lachlandeer/snakemake-econ-r](https://github.com/lachlandeer/snakemake-econ-r) - reproducible research project template for R using Renv and snakemake with an econ application
 - [XSLiuLab/tumor-immunogenicity-score](https://github.com/XSLiuLab/tumor-immunogenicity-score) - TIGS (Tumor Immunogenicity Score) project https://doi.org/10.7554/eLife.49020
@@ -805,7 +805,7 @@
 
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
-- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - A FLOSS Android app to let you browse YouTube, NicoNico and BiliBili freely.
+- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
