@@ -117,6 +117,7 @@
 
 ## C++ 
 
+- [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [AutoFlowResearch/SmartPeak](https://github.com/AutoFlowResearch/SmartPeak) - Fast and Accurate CE-, GC- and LC-MS(/MS) Data Processing
 - [alevar/ORFanage](https://github.com/alevar/ORFanage) - Ultra-efficient and sensitive method to search for Open Reading Frames in spliced genomes guided by reference annotation to maximize protein similarity within genes.
@@ -441,6 +442,7 @@
 
 ## Nix 
 
+- [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [nix-community/raspberry-pi-nix](https://github.com/nix-community/raspberry-pi-nix) - NixOS modules to aid in configuring NixOS for raspberry pi products
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
 - [jnsgruk/nixos-config](https://github.com/jnsgruk/nixos-config) - jnsgruk's nix flake ❄️
@@ -577,7 +579,7 @@
 - [bm2-lab/PanPep](https://github.com/bm2-lab/PanPep) - 
 - [CCob/gssapi-abuse](https://github.com/CCob/gssapi-abuse) - A tool for enumerating potential hosts that are open to GSSAPI abuse within Active Directory networks
 - [Jimbwlah/tensorflow-ring-animal-detector](https://github.com/Jimbwlah/tensorflow-ring-animal-detector) - 
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [NAL-i5K/GFF3toolkit](https://github.com/NAL-i5K/GFF3toolkit) - Python programs for processing GFF3 files
 - [t0thkr1s/gtfo](https://github.com/t0thkr1s/gtfo) - Search for Unix binaries that can be exploited to bypass system security restrictions.
 - [agshumate/Liftoff](https://github.com/agshumate/Liftoff) - An accurate GFF3/GTF lift over pipeline
