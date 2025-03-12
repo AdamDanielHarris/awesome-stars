@@ -257,7 +257,6 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [ConesaLab/SQANTI3](https://github.com/ConesaLab/SQANTI3) - Tool for the Quality Control of Long-Read Defined Transcriptomes
 - [Microsoft-OpenSource-Labs/ansible-azure-lab](https://github.com/Microsoft-OpenSource-Labs/ansible-azure-lab) - Lab to play with Azure using Ansible playbooks
-- [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [ewels/sra-explorer](https://github.com/ewels/sra-explorer) - Web application to explore the Sequence Read Archive.
 - [abhi7585/Url-Shortner-Django](https://github.com/abhi7585/Url-Shortner-Django) - Created a Url Shatner using Django and deployed it on Heroku.
 - [ARTbio/GalaxyKickStart](https://github.com/ARTbio/GalaxyKickStart) - Ansible playbooks for Galaxy Server deployment
@@ -677,6 +676,7 @@
 - [AeonLucid/AndroidNativeEmu](https://github.com/AeonLucid/AndroidNativeEmu) - Allows you to partly emulate an Android native library.
 - [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
+- [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [mahmoodlab/CLAM](https://github.com/mahmoodlab/CLAM) - Open source tools for computational pathology - Nature BME
 - [hpreston/netdevops_demos](https://github.com/hpreston/netdevops_demos) - Resources and details for a variety of NetDevOps Demos.
