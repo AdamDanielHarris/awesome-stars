@@ -117,6 +117,7 @@
 
 ## C++ 
 
+- [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based Telegram / WhatsApp client for Linux and macOS
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [AutoFlowResearch/SmartPeak](https://github.com/AutoFlowResearch/SmartPeak) - Fast and Accurate CE-, GC- and LC-MS(/MS) Data Processing
@@ -869,7 +870,7 @@
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
