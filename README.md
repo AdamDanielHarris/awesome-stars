@@ -117,6 +117,7 @@
 
 ## C++ 
 
+- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based Telegram / WhatsApp client for Linux and macOS
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -728,6 +729,7 @@
 
 ## R 
 
+- [gagneurlab/FRASER](https://github.com/gagneurlab/FRASER) - FRASER - Find RAre Splicing Events in RNA-seq
 - [wch/r-source](https://github.com/wch/r-source) - Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page.
 - [Roleren/ORFik](https://github.com/Roleren/ORFik) - 
 - [jokergoo/circlize](https://github.com/jokergoo/circlize) - Circular visualization in R
