@@ -192,7 +192,6 @@
 
 ## Dockerfile 
 
-- [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc) - Carefully crafted Alpine Docker image with glibc (~12MB)
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 - [d3b-center/bixtools](https://github.com/d3b-center/bixtools) - 🐳 Dockerfiles for bioinformatics tools
 - [dceoy/docker-bio](https://github.com/dceoy/docker-bio) - Dockerfile repository for Bioinformatics
@@ -837,6 +836,7 @@
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
 - [idev1/rpihotspot](https://github.com/idev1/rpihotspot) - Raspberry Pi - Hotspot (Access Point and WiFi Client/Station)
+- [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc) - Carefully crafted Alpine Docker image with glibc (~12MB)
 - [josevnz/DatesAndComplexInBash](https://github.com/josevnz/DatesAndComplexInBash) - Handling dates and performing complex or timed tasks in Bash
 - [Thopow/bash-helper](https://github.com/Thopow/bash-helper) - Modules to make bash scripting UI easier.
 - [dnmfarrell/jp](https://github.com/dnmfarrell/jp) - Validate and transform JSON with Bash
