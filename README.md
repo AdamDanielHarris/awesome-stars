@@ -252,6 +252,7 @@
 
 ## HTML 
 
+- [Nesvilab/MSFragger](https://github.com/Nesvilab/MSFragger) - Ultrafast, comprehensive peptide identification for mass spectrometry–based proteomics
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [bbc/rcookbook](https://github.com/bbc/rcookbook) - Reference manual for creating BBC-style graphics using the BBC's bbplot package built on top of R's ggplot2 library
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
