@@ -1386,6 +1386,7 @@
 
 ## others 
 
+- [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
