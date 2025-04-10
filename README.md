@@ -84,7 +84,7 @@
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
 - [geoffreybennett/alsa-scarlett-gui](https://github.com/geoffreybennett/alsa-scarlett-gui) - alsa-scarlett-gui is a Gtk4 GUI for the ALSA controls presented by the Linux kernel Focusrite USB Drivers
 - [geoffreybennett/scarlett2](https://github.com/geoffreybennett/scarlett2) - Scarlett2 Firmware Management Utility for Scarlett 2nd, 3rd, and 4th Gen, Clarett USB, and Clarett+ interfaces
-- [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application.
+- [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X-server add-on.
 - [primer3-org/primer3](https://github.com/primer3-org/primer3) - Primer3 is a command line tool to select primers for polymerase chain reaction (PCR).
 - [Iskuri/PN553-Signature-Bypass](https://github.com/Iskuri/PN553-Signature-Bypass) - A tool that bypasses PN553 signature protection
 - [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
@@ -117,6 +117,7 @@
 
 ## C++ 
 
+- [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based Telegram / WhatsApp client for Linux and macOS
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
