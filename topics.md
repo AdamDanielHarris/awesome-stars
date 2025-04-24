@@ -1147,6 +1147,7 @@
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
 
 ## llm 
@@ -1668,7 +1669,7 @@
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [Thopow/bash-helper](https://github.com/Thopow/bash-helper) - Modules to make bash scripting UI easier.
-- [MakeMonmouth/mventory](https://github.com/MakeMonmouth/mventory) - An API-driven solution for Makerspaces, Tinkerers, and Hackers.
+- [wyemake/mventory](https://github.com/wyemake/mventory) - An API-driven solution for Makerspaces, Tinkerers, and Hackers.
 - [ewels/sra-explorer](https://github.com/ewels/sra-explorer) - Web application to explore the Sequence Read Archive.
 - [mcostalba/Stockfish](https://github.com/mcostalba/Stockfish) - UCI chess engine
 - [danrabinowitz/sshrc](https://github.com/danrabinowitz/sshrc) - bring your .bashrc, .vimrc, etc. with you when you ssh
