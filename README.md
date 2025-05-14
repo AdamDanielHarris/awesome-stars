@@ -378,6 +378,7 @@
 
 ## Kotlin 
 
+- [joaomgcd/TaskerSettings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists. Fork of Quillnote
 - [jonathanklee/Sapio](https://github.com/jonathanklee/Sapio) - Android Open Source API compatibility
 - [ochadenas/cpudefense](https://github.com/ochadenas/cpudefense) - A tower defense game for Android based on a microprocessor theme
