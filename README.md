@@ -276,7 +276,7 @@
 
 ## Java 
 
-- [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - VNC server app for Android that does not require root privileges.
+- [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - VNC remote desktop server app for Android
 - [AndInTheClouds/chordreader2](https://github.com/AndInTheClouds/chordreader2) - Search for, display, transpose and save chords on your phone, that you get from the interwebs. :notes:
 - [zamojski/TowerCollector](https://github.com/zamojski/TowerCollector) - The OpenCellID and BeaconDB contributor's app.
 - [gdzx/audiosource](https://github.com/gdzx/audiosource) - :microphone: Use an Android device as a USB microphone
