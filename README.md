@@ -108,6 +108,7 @@
 
 ## C# # 
 
+- [futo-org/Grayjay.Desktop](https://github.com/futo-org/Grayjay.Desktop) - Read-only mirror of Grayjay.Desktop repo for issue tracking
 - [CCob/SweetPotato](https://github.com/CCob/SweetPotato) - Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019
 - [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus) - Trying to tame the three-headed dog.
 - [GameTechExplained/Chess-Challenge](https://github.com/GameTechExplained/Chess-Challenge) - 
@@ -118,6 +119,7 @@
 
 ## C++ 
 
+- [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based Telegram / WhatsApp client for Linux and macOS
