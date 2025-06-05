@@ -467,6 +467,7 @@
 
 ## Others 
 
+- [sipeed/NanoCluster](https://github.com/sipeed/NanoCluster) - NanoCluster: Compact & Affordable Cluster for Everyone
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [trimstray/iptables-essentials](https://github.com/trimstray/iptables-essentials) - Iptables Essentials: Common Firewall Rules and Commands.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
