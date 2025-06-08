@@ -78,7 +78,7 @@
 - [Quentin-Anthony/nanoMPI](https://github.com/Quentin-Anthony/nanoMPI) - Simple MPI implementation for prototyping or learning
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [ThomasMertes/seed7](https://github.com/ThomasMertes/seed7) - Source code of Seed7
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) - Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [UWPR/Comet](https://github.com/UWPR/Comet) - An tandem mass spectrometry (MS/MS) sequence database search tool.
