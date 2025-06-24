@@ -260,6 +260,7 @@
 
 ## HTML 
 
+- [ThioJoe/Browser-Based-Tools](https://github.com/ThioJoe/Browser-Based-Tools) - Thio's Browser-Based Tools: Various utilities and tools that run locally right in your browser
 - [Nesvilab/MSFragger](https://github.com/Nesvilab/MSFragger) - Ultrafast, comprehensive peptide identification for mass spectrometry–based proteomics
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [bbc/rcookbook](https://github.com/bbc/rcookbook) - Reference manual for creating BBC-style graphics using the BBC's bbplot package built on top of R's ggplot2 library
