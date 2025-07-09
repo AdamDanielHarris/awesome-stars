@@ -1419,6 +1419,7 @@
 
 ## others 
 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 - [ThioJoe/Browser-Based-Tools](https://github.com/ThioJoe/Browser-Based-Tools) - Thio's Browser-Based Tools: Various utilities and tools that run locally right in your browser
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [Quentin-Anthony/nanoMPI](https://github.com/Quentin-Anthony/nanoMPI) - Simple MPI implementation for prototyping or learning
