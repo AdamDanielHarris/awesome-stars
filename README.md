@@ -216,7 +216,7 @@
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [x-way/iptables-tracer](https://github.com/x-way/iptables-tracer) - Insert trace-points into the running configuration to observe the path of packets through the iptables chains.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
@@ -377,6 +377,7 @@
 - [abbvie-external/Predictive-Interpretable-Neural-Network-for-Druggability-PINNED-](https://github.com/abbvie-external/Predictive-Interpretable-Neural-Network-for-Druggability-PINNED-) - 
 - [frankligy/DeepImmuno](https://github.com/frankligy/DeepImmuno) - Deep-learning empowered prediction and generation of immunogenic epitopes for T cell immunity
 - [MannLabs/PeptDeep-HLA](https://github.com/MannLabs/PeptDeep-HLA) - DL model to predict HLA peptide presentation
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [jhadden04/lichess-ratings-to-openings-analysis](https://github.com/jhadden04/lichess-ratings-to-openings-analysis) - 
 
 ## Just 
@@ -425,7 +426,6 @@
 
 ## MDX 
 
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
@@ -673,7 +673,6 @@
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [rglaue/plantuml_to_drawio](https://github.com/rglaue/plantuml_to_drawio) - Convert a file with PlantUML code into a Diagrams.net (a.k.a Draw.io) XML file from the command line
 - [moggers87/salmon](https://github.com/moggers87/salmon) - Moved to Codeberg
-- [fulcrumgenomics/python-snakemake-template](https://github.com/fulcrumgenomics/python-snakemake-template) - A template repository for Snakemake pipepline(s) and a python command-line toolkit.
 - [lincolnloop/django-dynamic-raw-id](https://github.com/lincolnloop/django-dynamic-raw-id) - (formerly known as django-salmonella) A raw_id_fields widget replacement that handles display of an object's string value on change and can be overridden via a template.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [RickGelhausen/HRIBO](https://github.com/RickGelhausen/HRIBO) - We present HRIBO (High-throughput annotation by Ribo-seq), a workflow to enable reproducible and high-throughput analysis of bacterial Ribo-seq data. The workflow performs all required pre-processing 
