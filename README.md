@@ -243,7 +243,7 @@
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [dhiltgen/docker-machine-kvm](https://github.com/dhiltgen/docker-machine-kvm) - KVM driver for docker-machine
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -601,7 +601,7 @@
 - [Jimbwlah/tensorflow-ring-animal-detector](https://github.com/Jimbwlah/tensorflow-ring-animal-detector) - 
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [NAL-i5K/GFF3toolkit](https://github.com/NAL-i5K/GFF3toolkit) - Python programs for processing GFF3 files
-- [t0thkr1s/gtfo](https://github.com/t0thkr1s/gtfo) - Search for Unix binaries that can be exploited to bypass system security restrictions.
+- [t0thkr1s/gtfobins-cli](https://github.com/t0thkr1s/gtfobins-cli) - Search for Unix binaries that can be exploited to bypass system security restrictions.
 - [agshumate/Liftoff](https://github.com/agshumate/Liftoff) - An accurate GFF3/GTF lift over pipeline
 - [pawamoy/markdown-exec](https://github.com/pawamoy/markdown-exec) - Utilities to execute code blocks in Markdown files.
 - [signalbash/how_are_we_stranded_here](https://github.com/signalbash/how_are_we_stranded_here) - Check strandedness of RNA-Seq fastq files
