@@ -169,6 +169,7 @@
 - [simon-anders/htseq](https://github.com/simon-anders/htseq) - HTSeq is a Python library to facilitate processing and analysis of data from  high-throughput sequencing (HTS) experiments.
 - [openSUSE/transactional-update](https://github.com/openSUSE/transactional-update) - Atomic updates for Linux operating systems
 - [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
+- [Tadashi-Hikari/Sapphire-Assistant-Framework](https://github.com/Tadashi-Hikari/Sapphire-Assistant-Framework) - An extensible framework for creating Android Assistants on-device. It does not require Google services or network connectivity
 
 ## CSS 
 
@@ -416,7 +417,6 @@
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a KMP application which provides information about device hardware and software
 - [Domi04151309/BatteryTool](https://github.com/Domi04151309/BatteryTool) - Battery Tool helps you save battery by stopping apps that are running in the background.
 - [Artraxon/unexBot](https://github.com/Artraxon/unexBot) - A small bot for Reddit that filters out (some) of the rubbish and collects data for analyzing submissions
-- [Tadashi-Hikari/Sapphire-Assistant-Framework](https://github.com/Tadashi-Hikari/Sapphire-Assistant-Framework) - An extensible framework for creating Android Assistants on-device. It does not require Google services or network connectivity
 
 ## Lua 
 
