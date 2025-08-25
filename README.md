@@ -399,7 +399,7 @@
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 - [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
 - [SagerNet/sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
-- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
