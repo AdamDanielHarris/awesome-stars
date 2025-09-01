@@ -609,7 +609,7 @@
 - [signalbash/how_are_we_stranded_here](https://github.com/signalbash/how_are_we_stranded_here) - Check strandedness of RNA-Seq fastq files
 - [XiaomiFirmwareUpdater/miui-updates-tracker](https://github.com/XiaomiFirmwareUpdater/miui-updates-tracker) - A Script that automatically track Xiaomi Hyper OS and MIUI ROMs releases and send to channels notifying users!
 - [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
-- [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get activity statistics
+- [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get statistics and set activities
 - [BrooksLabUCSC/flair](https://github.com/BrooksLabUCSC/flair) - Full-Length Alternative Isoform analysis of RNA
 - [xjtu-omics/msisensor-rna](https://github.com/xjtu-omics/msisensor-rna) - MSIsensor-RNA: Microsatellite instability detection using RNA sequencing data
 - [pgzip/pgzip](https://github.com/pgzip/pgzip) - A multi-threading implement of Python gzip module
