@@ -1561,7 +1561,6 @@
 - [byt3bl33d3r/SpamChannel](https://github.com/byt3bl33d3r/SpamChannel) - Spoof emails from any of the +2 Million domains using  MailChannels (DEFCON 31 Talk)
 - [SafeBreach-Labs/wd-pretender](https://github.com/SafeBreach-Labs/wd-pretender) - 
 - [PortSwigger/turbo-intruder](https://github.com/PortSwigger/turbo-intruder) - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
-- [pjsample/TCR-Epitope_Modeling](https://github.com/pjsample/TCR-Epitope_Modeling) - Modeling the binding of CDR3 sequences to epitopes.
 - [bm2-lab/PanPep](https://github.com/bm2-lab/PanPep) - 
 - [hms-dbmi/UpSetR-orthologs](https://github.com/hms-dbmi/UpSetR-orthologs) - Shiny app to compute and visualize ortholog intersections across multiple species using UpSetR.
 - [hms-dbmi/UpSetR-shiny](https://github.com/hms-dbmi/UpSetR-shiny) - A Shiny wrapper for the UpSetR R package (https://github.com/hms-dbmi/UpSetR).
