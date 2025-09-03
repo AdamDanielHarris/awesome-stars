@@ -597,7 +597,6 @@
 - [bbc/catflap-camera](https://github.com/bbc/catflap-camera) - Raspberry Pi based catflap-triggered camera. As seen on TV.
 - [bbc/theano-bpr](https://github.com/bbc/theano-bpr) - An implementation of Bayesian Personalised Ranking in Theano
 - [SafeBreach-Labs/wd-pretender](https://github.com/SafeBreach-Labs/wd-pretender) - 
-- [pjsample/TCR-Epitope_Modeling](https://github.com/pjsample/TCR-Epitope_Modeling) - Modeling the binding of CDR3 sequences to epitopes.
 - [bm2-lab/PanPep](https://github.com/bm2-lab/PanPep) - 
 - [CCob/gssapi-abuse](https://github.com/CCob/gssapi-abuse) - A tool for enumerating potential hosts that are open to GSSAPI abuse within Active Directory networks
 - [Jimbwlah/tensorflow-ring-animal-detector](https://github.com/Jimbwlah/tensorflow-ring-animal-detector) - 
