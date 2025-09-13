@@ -169,7 +169,7 @@
 - [simon-anders/htseq](https://github.com/simon-anders/htseq) - HTSeq is a Python library to facilitate processing and analysis of data from  high-throughput sequencing (HTS) experiments.
 - [openSUSE/transactional-update](https://github.com/openSUSE/transactional-update) - Atomic updates for Linux operating systems
 - [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
-- [Tadashi-Hikari/Sapphire-Assistant-Framework](https://github.com/Tadashi-Hikari/Sapphire-Assistant-Framework) - An extensible framework for creating Android Assistants on-device. It does not require Google services or network connectivity
+- [hikari-tadashi/Sapphire-Assistant-Framework](https://github.com/hikari-tadashi/Sapphire-Assistant-Framework) - An extensible framework for creating Android Assistants on-device. It does not require Google services or network connectivity
 
 ## CSS 
 
