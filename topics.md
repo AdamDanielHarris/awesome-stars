@@ -521,6 +521,7 @@
 
 ## cli 
 
+- [coderGtm/yantra-app-launcher](https://github.com/coderGtm/yantra-app-launcher) - A minimal CLI based Android app Launcher
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
