@@ -1454,6 +1454,7 @@
 
 ## others 
 
+- [ChelsWin/Tasker-Trigger](https://github.com/ChelsWin/Tasker-Trigger) - Trigger Tasker tasks from your Garmin watch using the AutoNotification plugin on Android.
 - [google-gemini/gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) - A collection of guides and examples for the Gemma open models from Google.
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 - [ThioJoe/Browser-Based-Tools](https://github.com/ThioJoe/Browser-Based-Tools) - Thio's Browser-Based Tools: Various utilities and tools that run locally right in your browser
