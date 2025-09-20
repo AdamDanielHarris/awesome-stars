@@ -35,6 +35,7 @@
 - [Markdown](#markdown)
 - [Meson](#meson)
 - [Mojo](#mojo)
+- [Monkey C](#monkey-c)
 - [Nextflow](#nextflow)
 - [Nix](#nix)
 - [Others](#others)
@@ -448,6 +449,10 @@
 ## Mojo 
 
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
+
+## Monkey C 
+
+- [ChelsWin/Tasker-Trigger](https://github.com/ChelsWin/Tasker-Trigger) - Trigger Tasker tasks from your Garmin watch using the AutoNotification plugin on Android.
 
 ## Nextflow 
 
