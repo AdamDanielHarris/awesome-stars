@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Awk](#awk)
@@ -57,6 +58,10 @@
 - [Vue](#vue)
 - [YAML](#yaml)
 - [Zig](#zig)
+
+## Assembly 
+
+- [grimdoomer/Xbox360BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate) - Software only hypervisor exploit for Xbox 360
 
 ## Astro 
 
@@ -121,6 +126,7 @@
 
 ## C++ 
 
+- [Byrom90/XeUnshackle](https://github.com/Byrom90/XeUnshackle) - Custom Xbox 360 app designed to be used with the Xbox360BadUpdate exploit. Applies a set of HV/Kernel patches & loads the Dashlaunch system module (launch.xex).
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
@@ -214,7 +220,7 @@
 
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
