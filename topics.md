@@ -209,6 +209,7 @@
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -1594,8 +1595,6 @@
 - [PortSwigger/turbo-intruder](https://github.com/PortSwigger/turbo-intruder) - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
 - [bm2-lab/PanPep](https://github.com/bm2-lab/PanPep) - 
 - [hms-dbmi/UpSetR-orthologs](https://github.com/hms-dbmi/UpSetR-orthologs) - Shiny app to compute and visualize ortholog intersections across multiple species using UpSetR.
-- [hms-dbmi/UpSetR-shiny](https://github.com/hms-dbmi/UpSetR-shiny) - A Shiny wrapper for the UpSetR R package (https://github.com/hms-dbmi/UpSetR).
-- [hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
 - [CCob/SweetPotato](https://github.com/CCob/SweetPotato) - Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019
 - [CCob/gssapi-abuse](https://github.com/CCob/gssapi-abuse) - A tool for enumerating potential hosts that are open to GSSAPI abuse within Active Directory networks
 - [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus) - Trying to tame the three-headed dog.
@@ -1654,7 +1653,6 @@
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [karpathy/ng-video-lecture](https://github.com/karpathy/ng-video-lecture) - 
 - [openvax/varcode](https://github.com/openvax/varcode) - Library for manipulating genomic variants and predicting their effects
-- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [snakemake-workflows/dna-seq-neoantigen-prediction](https://github.com/snakemake-workflows/dna-seq-neoantigen-prediction) - Snakemake workflow for neoantigen prediction
 - [daler/gffutils](https://github.com/daler/gffutils) - GFF and GTF file manipulation and interconversion
 - [fls-bioinformatics-core/GFFUtils](https://github.com/fls-bioinformatics-core/GFFUtils) - Python module and utility programs for working with GFF files
@@ -2323,6 +2321,18 @@
 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## visualization 
+
+- [hms-dbmi/UpSetR-shiny](https://github.com/hms-dbmi/UpSetR-shiny) - A Shiny wrapper for the UpSetR R package (https://github.com/hms-dbmi/UpSetR).
+- [hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
+- [MannLabs/alphamap](https://github.com/MannLabs/alphamap) - An open-source Python package for the visual annotation of proteomics data with sequence specific knowledge.
+- [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
+- [msquatrito/shiny_GlioVis](https://github.com/msquatrito/shiny_GlioVis) - Data visualization tools for brain tumour  datasets
+- [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
+- [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
+- [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 
 ## vpn 
 
