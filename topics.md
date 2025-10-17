@@ -1342,6 +1342,7 @@
 ## music 
 
 - [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An Android application for music recognition that uses AudD and ACRCloud services to perform song identification.
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - Memorize piano scales with ease! A piano practice program w/ MIDI support. Consider it an interactive reference manual 🎹
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
