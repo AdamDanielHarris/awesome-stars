@@ -563,6 +563,8 @@
 
 ## Python 
 
+- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [nmatt0/bletools](https://github.com/nmatt0/bletools) - BLE pentesting scripts
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana
