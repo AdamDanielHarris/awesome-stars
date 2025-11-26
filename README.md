@@ -220,6 +220,7 @@
 
 ## Go 
 
+- [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
@@ -293,6 +294,7 @@
 
 ## Java 
 
+- [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - Android VNC remote desktop server for local networks
 - [AndInTheClouds/chordreader2](https://github.com/AndInTheClouds/chordreader2) - Search for, display, transpose and save chords on your phone, that you get from the interwebs. :notes:
 - [zamojski/TowerCollector](https://github.com/zamojski/TowerCollector) - The OpenCellID and BeaconDB contributor's app.
@@ -397,6 +399,7 @@
 
 ## Kotlin 
 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
 - [coderGtm/yantra-app-launcher](https://github.com/coderGtm/yantra-app-launcher) - A minimal CLI based Android app Launcher
 - [joaomgcd/TaskerSettings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
@@ -913,6 +916,7 @@
 
 ## TypeScript 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [leonardsellem/n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
