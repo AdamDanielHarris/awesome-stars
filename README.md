@@ -345,6 +345,7 @@
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+- [raccrompton/BookBuilder](https://github.com/raccrompton/BookBuilder) - An automatic Chess opening repertoire Builder
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [shreyashankar/gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
@@ -598,7 +599,7 @@
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [ishinder/EASTR](https://github.com/ishinder/EASTR) - Emending Alignment of Spliced Transcript Reads
 - [agiresearch/AIOS](https://github.com/agiresearch/AIOS) - AIOS: AI Agent Operating System
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models"
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
@@ -706,7 +707,6 @@
 - [smithlabcode/ribotricer](https://github.com/smithlabcode/ribotricer) - A tool for accurately detecting actively translating ORFs from Ribo-seq data
 - [bcbio/bcbio-nextgen](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis
 - [latchbio/latch](https://github.com/latchbio/latch) - a python bioinformatics framework
-- [raccrompton/BookBuilder](https://github.com/raccrompton/BookBuilder) - An automatic Chess opening repertoire Builder
 - [openvax/mhcnames](https://github.com/openvax/mhcnames) - All the fun and adventure of MHC naming, now in Python
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [KarchinLab/mhcnuggets](https://github.com/KarchinLab/mhcnuggets) - MHC Class I and Class II neoantigen binding prediction
