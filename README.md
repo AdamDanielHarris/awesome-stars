@@ -294,6 +294,7 @@
 
 ## Java 
 
+- [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - Android VNC remote desktop server for local networks
 - [AndInTheClouds/chordreader2](https://github.com/AndInTheClouds/chordreader2) - Search for, display, transpose and save chords on your phone, that you get from the interwebs. :notes:
@@ -399,6 +400,7 @@
 
 ## Kotlin 
 
+- [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [coderGtm/yantra-app-launcher](https://github.com/coderGtm/yantra-app-launcher) - A minimal CLI based Android app Launcher
 - [joaomgcd/TaskerSettings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker
