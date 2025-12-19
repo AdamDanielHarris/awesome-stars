@@ -400,6 +400,8 @@
 
 ## Kotlin 
 
+- [pacjo/SmartspacerPlugins](https://github.com/pacjo/SmartspacerPlugins) - Home of Generic Weather, Local Battery, Sleep as Android and more
+- [KieronQuinn/Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Smartspacer is a customisable widget for Android, but with a difference: It can upgrade the built in At a Glance on Pixels - without root!
 - [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [coderGtm/yantra-app-launcher](https://github.com/coderGtm/yantra-app-launcher) - A minimal CLI based Android app Launcher
