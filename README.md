@@ -82,6 +82,7 @@
 
 ## C 
 
+- [bahamas10/sshp](https://github.com/bahamas10/sshp) - Parallel SSH Executor
 - [Quentin-Anthony/nanoMPI](https://github.com/Quentin-Anthony/nanoMPI) - Simple MPI implementation for prototyping or learning
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [ThomasMertes/seed7](https://github.com/ThomasMertes/seed7) - Source code of Seed7
