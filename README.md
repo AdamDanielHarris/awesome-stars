@@ -61,6 +61,7 @@
 
 ## Assembly 
 
+- [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [InkboxSoftware/spacegamex64](https://github.com/InkboxSoftware/spacegamex64) - Recreation of a classic arcade game remade as a UEFI application for the x86_64 platform.
 - [grimdoomer/Xbox360BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate) - Software only hypervisor exploit for Xbox 360
 
