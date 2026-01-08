@@ -608,7 +608,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [JIA-Lab-research/MGM](https://github.com/JIA-Lab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models"
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev: Dev All through LLM-powered Multi-Agent Collaboration
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -848,7 +848,7 @@
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
-- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: the power of programming, in your database
+- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: Built for systems, not records
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -964,7 +964,7 @@
 - [mkloubert/vs-rest-api](https://github.com/mkloubert/vs-rest-api) - Visual Studio Code extension that provides a REST API to control your editor.
 - [svipas/vscode-notification-tester](https://github.com/svipas/vscode-notification-tester) - Trigger any VS Code notification.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
