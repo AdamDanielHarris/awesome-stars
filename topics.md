@@ -299,6 +299,7 @@
 
 ## android 
 
+- [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 - [pacjo/SmartspacerPlugins](https://github.com/pacjo/SmartspacerPlugins) - Home of Generic Weather, Local Battery, Sleep as Android and more
 - [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Monochrome outlined brand icons for Android launchers.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
@@ -1078,7 +1079,6 @@
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [nytimes/react-tracking](https://github.com/nytimes/react-tracking) - 🎯 Declarative tracking for React apps.
@@ -1143,6 +1143,7 @@
 
 ## ios 
 
+- [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 - [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
