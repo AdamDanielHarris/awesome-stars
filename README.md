@@ -414,7 +414,7 @@
 - [jonathanklee/Sapio](https://github.com/jonathanklee/Sapio) - Android Open Source API compatibility
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
 - [ochadenas/cpudefense](https://github.com/ochadenas/cpudefense) - A tower defense game for Android based on a microprocessor theme
-- [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An Android application for music recognition that uses AudD and ACRCloud services to perform song identification.
+- [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
 - [Staacks/alpharemote](https://github.com/Staacks/alpharemote) - Bluetooth remote for Sony cameras
 - [cyb3rko/flashdim](https://github.com/cyb3rko/flashdim) - Modern flashlight app with dim functionality on Android 13+
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
