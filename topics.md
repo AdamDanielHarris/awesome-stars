@@ -579,6 +579,7 @@
 
 ## cli 
 
+- [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board in your terminal
 - [duolingo/pulldozer](https://github.com/duolingo/pulldozer) - CLI tool for batch editing multiple repos :tractor:
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [coderGtm/yantra-app-launcher](https://github.com/coderGtm/yantra-app-launcher) - A minimal CLI based Android app Launcher
@@ -1119,6 +1120,7 @@
 
 ## home-assistant 
 
+- [hn/bsh-home-appliances](https://github.com/hn/bsh-home-appliances) - BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## html 
@@ -1605,6 +1607,7 @@
 
 ## others 
 
+- [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) - Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 - [aws-samples/sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials) - 
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
@@ -2042,6 +2045,7 @@
 
 ## productivity 
 
+- [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board in your terminal
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -2214,6 +2218,7 @@
 
 ## rust 
 
+- [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board in your terminal
 - [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
@@ -2382,6 +2387,7 @@
 
 ## terminal 
 
+- [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board in your terminal
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
@@ -2426,6 +2432,7 @@
 
 ## tui 
 
+- [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board in your terminal
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based Telegram / WhatsApp client for Linux and macOS
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
