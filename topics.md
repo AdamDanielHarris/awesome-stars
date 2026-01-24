@@ -1615,6 +1615,9 @@
 
 ## others 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [RoPieee/RoPieee](https://github.com/RoPieee/RoPieee) - An easy-to-use Raspberry Pi image for network audio streaming solutions
+- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [HarryMaher/csv_to_mp3](https://github.com/HarryMaher/csv_to_mp3) - Script takes a .csv list of songs and downloads audio from youtube in mp3 format
 - [google-research/android_world](https://github.com/google-research/android_world) - AndroidWorld is an environment and benchmark for autonomous agents
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
