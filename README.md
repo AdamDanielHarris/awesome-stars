@@ -282,6 +282,7 @@
 - [bbc/rcookbook](https://github.com/bbc/rcookbook) - Reference manual for creating BBC-style graphics using the BBC's bbplot package built on top of R's ggplot2 library
 - [waschinski/photo-stream](https://github.com/waschinski/photo-stream) - Self-hosted, super simple photo stream
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [ConesaLab/SQANTI3](https://github.com/ConesaLab/SQANTI3) - Tool for the Quality Control of Long-Read Defined Transcriptomes
 - [Microsoft-OpenSource-Labs/ansible-azure-lab](https://github.com/Microsoft-OpenSource-Labs/ansible-azure-lab) - Lab to play with Azure using Ansible playbooks
 - [ewels/sra-explorer](https://github.com/ewels/sra-explorer) - Web application to explore the Sequence Read Archive.
@@ -450,7 +451,6 @@
 
 ## MDX 
 
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
