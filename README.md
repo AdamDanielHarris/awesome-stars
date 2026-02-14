@@ -499,6 +499,7 @@
 
 ## Others 
 
+- [rohitg00/awesome-openclaw](https://github.com/rohitg00/awesome-openclaw) - 
 - [RoPieee/RoPieee](https://github.com/RoPieee/RoPieee) - An easy-to-use Raspberry Pi image for network audio streaming solutions
 - [sipeed/NanoCluster](https://github.com/sipeed/NanoCluster) - NanoCluster: Compact & Affordable Cluster for Everyone
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
@@ -654,7 +655,6 @@
 - [pgzip/pgzip](https://github.com/pgzip/pgzip) - A multi-threading implement of Python gzip module
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
-- [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) - 
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [actionless/pikaur](https://github.com/actionless/pikaur) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
@@ -710,7 +710,6 @@
 - [alexfields/ORF-RATER](https://github.com/alexfields/ORF-RATER) - Regression-based annotation of protein-coding sequences from ribosome profiling data
 - [yaml/pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
 - [urmi-21/orfipy](https://github.com/urmi-21/orfipy) - Fast and flexible ORF finder
-- [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [rglaue/plantuml_to_drawio](https://github.com/rglaue/plantuml_to_drawio) - Convert a file with PlantUML code into a Diagrams.net (a.k.a Draw.io) XML file from the command line
 - [moggers87/salmon](https://github.com/moggers87/salmon) - Moved to Codeberg
 - [lincolnloop/django-dynamic-raw-id](https://github.com/lincolnloop/django-dynamic-raw-id) - (formerly known as django-salmonella) A raw_id_fields widget replacement that handles display of an object's string value on change and can be overridden via a template.
@@ -769,7 +768,7 @@
 - [ndaniel/fusioncatcher](https://github.com/ndaniel/fusioncatcher) - Finder of Somatic Fusion Genes in RNA-seq data
 - [mesquidar/adbsploit](https://github.com/mesquidar/adbsploit) - A python based tool for exploiting and managing Android devices via ADB
 - [usadellab/Helixer](https://github.com/usadellab/Helixer) - Using Deep Learning to predict gene annotations
-- [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨
+- [django-commons/django-unicorn](https://github.com/django-commons/django-unicorn) - The magical reactive component framework for Django ✨
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [shreyashankar/create-ml-app](https://github.com/shreyashankar/create-ml-app) - Template Makefile for ML projects in Python.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
