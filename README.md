@@ -824,6 +824,7 @@
 
 ## Rust 
 
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) - Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 - [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board for your terminal workflows
@@ -997,7 +998,7 @@
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [1000ch/whale](https://github.com/1000ch/whale) - Unofficial Trello app :whale:
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
 - [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
