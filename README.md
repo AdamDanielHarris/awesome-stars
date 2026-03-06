@@ -327,7 +327,7 @@
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [dgl/paste.sh](https://github.com/dgl/paste.sh) - an encrypted pastebin
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 - [MIvanchev/run-a-script](https://github.com/MIvanchev/run-a-script) - A minimalistic Firefox extension that allows you to inject a single JS script in every page you visit
 - [primer3-org/primer3plus](https://github.com/primer3-org/primer3plus) - Primer3Plus is an advanced web interface for primer3.
 - [duckduckgo/tracker-blocklists](https://github.com/duckduckgo/tracker-blocklists) - Web tracker blocklists used by DuckDuckGo apps and extensions.
