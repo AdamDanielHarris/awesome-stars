@@ -1982,7 +1982,7 @@
 - [bwasti/mebm](https://github.com/bwasti/mebm) - zero-dependency browser-based video editor
 - [ndaniel/fusioncatcher](https://github.com/ndaniel/fusioncatcher) - Finder of Somatic Fusion Genes in RNA-seq data
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [dynup/kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
+- [dynup/kpatch](https://github.com/dynup/kpatch) - NOTICE: kpatch is deprecated
 - [usadellab/Helixer](https://github.com/usadellab/Helixer) - Using Deep Learning to predict gene annotations
 - [shreyashankar/create-ml-app](https://github.com/shreyashankar/create-ml-app) - Template Makefile for ML projects in Python.
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
