@@ -113,7 +113,7 @@
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [dynup/kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
+- [dynup/kpatch](https://github.com/dynup/kpatch) - NOTICE: kpatch is deprecated
 - [EHfive/pulseaudio-modules-bt](https://github.com/EHfive/pulseaudio-modules-bt) - [Deprecated, see https://github.com/EHfive/pulseaudio-modules-bt/issues/154] Adds Sony LDAC, aptX, aptX HD, AAC codecs (A2DP Audio) support to PulseAudio on Linux
 
 ## C# # 
