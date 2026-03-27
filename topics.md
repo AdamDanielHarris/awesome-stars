@@ -493,6 +493,7 @@
 
 ## bioinformatics 
 
+- [001TMF/ProteinView](https://github.com/001TMF/ProteinView) - Terminal protein structure viewer — interactive 3D visualization of PDB/mmCIF structures with cartoon ribbons, braille rendering, and Sixel/Kitty graphics
 - [Nesvilab/MSFragger](https://github.com/Nesvilab/MSFragger) - Ultrafast, comprehensive peptide identification for mass spectrometry–based proteomics
 - [deeptools/deepTools](https://github.com/deeptools/deepTools) - Tools to process and analyze deep sequencing data.
 - [AutoFlowResearch/SmartPeak](https://github.com/AutoFlowResearch/SmartPeak) - Fast and Accurate CE-, GC- and LC-MS(/MS) Data Processing
@@ -504,7 +505,7 @@
 - [andrewrech/antigen.garnish](https://github.com/andrewrech/antigen.garnish) - 
 - [dputhier/pygtftk](https://github.com/dputhier/pygtftk) - A python package and a set of shell commands to handle GTF files
 - [maxplanck-ie/parkour2](https://github.com/maxplanck-ie/parkour2) - Parkour2: Laboratory Information Management System  👩🏻‍🔬 🧬 👨🏽‍💻
-- [antigenomics/vdjmatch](https://github.com/antigenomics/vdjmatch) - ⚙️ Matching T-cell repertoire against a database of TCR antigen specificities
+- [antigenomics/vdjmatch](https://github.com/antigenomics/vdjmatch) - [Deprectated, use vdjmatch2 instead] ⚙️ Matching T-cell repertoire against a database of TCR antigen specificities
 - [urmi-21/orfipy](https://github.com/urmi-21/orfipy) - Fast and flexible ORF finder
 - [COMBINE-lab/salmon](https://github.com/COMBINE-lab/salmon) - 🐟 🍣 🍱 Highly-accurate & wicked fast transcript-level quantification from RNA-seq reads using selective alignment
 - [RickGelhausen/HRIBO](https://github.com/RickGelhausen/HRIBO) - We present HRIBO (High-throughput annotation by Ribo-seq), a workflow to enable reproducible and high-throughput analysis of bacterial Ribo-seq data. The workflow performs all required pre-processing 
@@ -2265,6 +2266,7 @@
 
 ## rust 
 
+- [001TMF/ProteinView](https://github.com/001TMF/ProteinView) - Terminal protein structure viewer — interactive 3D visualization of PDB/mmCIF structures with cartoon ribbons, braille rendering, and Sixel/Kitty graphics
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board for your terminal workflows
 - [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
@@ -2436,6 +2438,7 @@
 
 ## terminal 
 
+- [001TMF/ProteinView](https://github.com/001TMF/ProteinView) - Terminal protein structure viewer — interactive 3D visualization of PDB/mmCIF structures with cartoon ribbons, braille rendering, and Sixel/Kitty graphics
 - [aman-roy/mp3_downloader](https://github.com/aman-roy/mp3_downloader) - A simple python program from which you can download the songs by just entering the name. You can also download by entering a list of name, youtube link or list of youtube links.
 - [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board for your terminal workflows
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -2482,6 +2485,7 @@
 
 ## tui 
 
+- [001TMF/ProteinView](https://github.com/001TMF/ProteinView) - Terminal protein structure viewer — interactive 3D visualization of PDB/mmCIF structures with cartoon ribbons, braille rendering, and Sixel/Kitty graphics
 - [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board for your terminal workflows
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based messaging client for Linux and macOS with Telegram, WhatsApp and Signal support
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
