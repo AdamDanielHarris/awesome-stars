@@ -282,7 +282,6 @@
 - [waschinski/photo-stream](https://github.com/waschinski/photo-stream) - Self-hosted, super simple photo stream
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [ConesaLab/SQANTI3](https://github.com/ConesaLab/SQANTI3) - Tool for the Quality Control of Long-Read Defined Transcriptomes
 - [Microsoft-OpenSource-Labs/ansible-azure-lab](https://github.com/Microsoft-OpenSource-Labs/ansible-azure-lab) - Lab to play with Azure using Ansible playbooks
 - [ewels/sra-explorer](https://github.com/ewels/sra-explorer) - Web application to explore the Sequence Read Archive.
 - [abhi7585/Url-Shortner-Django](https://github.com/abhi7585/Url-Shortner-Django) - Created a Url Shatner using Django and deployed it on Heroku.
@@ -731,6 +730,7 @@
 - [broadinstitute/gtex-pipeline](https://github.com/broadinstitute/gtex-pipeline) - GTEx & TOPMed data production and analysis pipelines
 - [cmb-chula/MHCSeqNet](https://github.com/cmb-chula/MHCSeqNet) - A Python tool for prediction MHC ligand
 - [snakemake/snakemake-wrappers](https://github.com/snakemake/snakemake-wrappers) - This is the development home of the Snakemake wrapper repository, see
+- [ConesaLab/SQANTI3](https://github.com/ConesaLab/SQANTI3) - Tool for the Quality Control of Long-Read Defined Transcriptomes
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [AeonLucid/AndroidNativeEmu](https://github.com/AeonLucid/AndroidNativeEmu) - Allows you to partly emulate an Android native library.
