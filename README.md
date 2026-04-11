@@ -279,6 +279,7 @@
 - [Nesvilab/MSFragger](https://github.com/Nesvilab/MSFragger) - Ultrafast, comprehensive peptide identification for mass spectrometry–based proteomics
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [bbc/rcookbook](https://github.com/bbc/rcookbook) - Reference manual for creating BBC-style graphics using the BBC's bbplot package built on top of R's ggplot2 library
+- [NBISweden/AGAT](https://github.com/NBISweden/AGAT) - Another Gtf/Gff Analysis Toolkit https://nbisweden.github.io/AGAT/
 - [waschinski/photo-stream](https://github.com/waschinski/photo-stream) - Self-hosted, super simple photo stream
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -559,7 +560,6 @@
 
 - [alliance-genome/agr_amplify_jbrowse2](https://github.com/alliance-genome/agr_amplify_jbrowse2) - Repo to build JBrowse 2 with AWS Amplify
 - [get-iplayer/get_iplayer](https://github.com/get-iplayer/get_iplayer) - A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds
-- [NBISweden/AGAT](https://github.com/NBISweden/AGAT) - Another Gtf/Gff Analysis Toolkit https://nbisweden.github.io/AGAT/
 - [samyk/samytools](https://github.com/samyk/samytools) - Simple tools to make reverse engineering and console cowboying easier, primarily by data translation and manipulation + file handle piping. Mostly *nix tools with an emphasis on macOS.
 - [trizen/trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [TransDecoder/TransDecoder](https://github.com/TransDecoder/TransDecoder) - TransDecoder source
@@ -826,7 +826,7 @@
 ## Rust 
 
 - [001TMF/ProteinView](https://github.com/001TMF/ProteinView) - Terminal protein structure viewer — interactive 3D visualization of PDB/mmCIF structures with cartoon ribbons, braille rendering, and Sixel/Kitty graphics
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) - Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 - [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board for your terminal workflows
