@@ -500,7 +500,6 @@
 - [rohitg00/awesome-openclaw](https://github.com/rohitg00/awesome-openclaw) - 
 - [RoPieee/RoPieee](https://github.com/RoPieee/RoPieee) - An easy-to-use Raspberry Pi image for network audio streaming solutions
 - [sipeed/NanoCluster](https://github.com/sipeed/NanoCluster) - NanoCluster: Compact & Affordable Cluster for Everyone
-- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [trimstray/iptables-essentials](https://github.com/trimstray/iptables-essentials) - Iptables Essentials: Common Firewall Rules and Commands.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -594,6 +593,7 @@
 - [koesterlab/srptn](https://github.com/koesterlab/srptn) - SeRPentine - the Snakemake research platform
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [deeptools/deepTools](https://github.com/deeptools/deepTools) - Tools to process and analyze deep sequencing data.
+- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [nix-community/pip2nix](https://github.com/nix-community/pip2nix) - Freeze pip-installable packages into Nix expressions [maintainer=@datakurre]
 - [cylc/cylc-flow](https://github.com/cylc/cylc-flow) - Cylc: a general purpose workflow engine with a gift for cycling
