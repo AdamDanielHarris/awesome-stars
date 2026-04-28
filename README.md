@@ -497,7 +497,6 @@
 
 ## Others 
 
-- [rohitg00/awesome-openclaw](https://github.com/rohitg00/awesome-openclaw) - 
 - [RoPieee/RoPieee](https://github.com/RoPieee/RoPieee) - An easy-to-use Raspberry Pi image for network audio streaming solutions
 - [sipeed/NanoCluster](https://github.com/sipeed/NanoCluster) - NanoCluster: Compact & Affordable Cluster for Everyone
 - [trimstray/iptables-essentials](https://github.com/trimstray/iptables-essentials) - Iptables Essentials: Common Firewall Rules and Commands.
@@ -575,6 +574,7 @@
 
 ## Python 
 
+- [rohitg00/awesome-openclaw](https://github.com/rohitg00/awesome-openclaw) - 
 - [NISH1001/playx](https://github.com/NISH1001/playx) - Search and play any song from terminal
 - [aman-roy/mp3_downloader](https://github.com/aman-roy/mp3_downloader) - A simple python program from which you can download the songs by just entering the name. You can also download by entering a list of name, youtube link or list of youtube links.
 - [HarryMaher/csv_to_mp3](https://github.com/HarryMaher/csv_to_mp3) - Script takes a .csv list of songs and downloads audio from youtube in mp3 format
