@@ -454,7 +454,6 @@
 ## Makefile 
 
 - [wodby/docker4python](https://github.com/wodby/docker4python) - Docker-based Python web stack (works for Django)
-- [vcrhonek/hwdata](https://github.com/vcrhonek/hwdata) - hwdata contains various hardware identification and configuration data, such as the pci.ids and usb.ids databases.
 
 ## Markdown 
 
@@ -653,7 +652,7 @@
 - [xjtu-omics/msisensor-rna](https://github.com/xjtu-omics/msisensor-rna) - MSIsensor-RNA: Microsatellite instability detection using RNA sequencing data
 - [pgzip/pgzip](https://github.com/pgzip/pgzip) - A multi-threading implement of Python gzip module
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) - 
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
@@ -747,6 +746,7 @@
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [vcrhonek/hwdata](https://github.com/vcrhonek/hwdata) - hwdata contains various hardware identification and configuration data, such as the pci.ids and usb.ids databases.
 - [jasbur/RaspiWiFi](https://github.com/jasbur/RaspiWiFi) - Headless WiFi configuration for the Raspberry Pi (or most other devices running Linux) by using a temporary WiFi access point and web interface
 - [medpaf/hawk](https://github.com/medpaf/hawk) - Network, recon and offensive-security tool for Linux.
 - [jxwolstenholme/btsmarthub_devicelist](https://github.com/jxwolstenholme/btsmarthub_devicelist) - Retrieve a list of devices from a bt smarthub or bt smarthub 2 on a local network
