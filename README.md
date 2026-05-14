@@ -961,7 +961,7 @@
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [TfTHacker/Obsidian-WordNet](https://github.com/TfTHacker/Obsidian-WordNet) - WordNet plugin for Obsidian.  WordNet is a large lexical database of English developed by Princeton University and its license allows use in other applications. This plugin is a part of the Obsidian42
 - [MOIMOB/drinkable](https://github.com/MOIMOB/drinkable) - Drinkable is an app which help you find cocktails that you could make today with ingredients from home
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
