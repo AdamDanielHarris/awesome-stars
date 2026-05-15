@@ -573,6 +573,8 @@
 
 ## Python 
 
+- [adrienmetais/adl](https://github.com/adrienmetais/adl) - Download ebooks from acsm file
+- [esn/knock](https://github.com/esn/knock) - Convert ACSM files to DRM-free EPUB files with one command on Linux
 - [rohitg00/awesome-openclaw](https://github.com/rohitg00/awesome-openclaw) - 
 - [NISH1001/playx](https://github.com/NISH1001/playx) - Search and play any song from terminal
 - [aman-roy/mp3_downloader](https://github.com/aman-roy/mp3_downloader) - A simple python program from which you can download the songs by just entering the name. You can also download by entering a list of name, youtube link or list of youtube links.
