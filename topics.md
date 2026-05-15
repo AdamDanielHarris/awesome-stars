@@ -1319,6 +1319,7 @@
 
 ## linux 
 
+- [adrienmetais/adl](https://github.com/adrienmetais/adl) - Download ebooks from acsm file
 - [NISH1001/playx](https://github.com/NISH1001/playx) - Search and play any song from terminal
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
@@ -1665,6 +1666,7 @@
 
 ## others 
 
+- [esn/knock](https://github.com/esn/knock) - Convert ACSM files to DRM-free EPUB files with one command on Linux
 - [rohitg00/awesome-openclaw](https://github.com/rohitg00/awesome-openclaw) - 
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
