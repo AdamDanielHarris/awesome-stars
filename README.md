@@ -736,7 +736,7 @@
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [AeonLucid/AndroidNativeEmu](https://github.com/AeonLucid/AndroidNativeEmu) - Allows you to partly emulate an Android native library.
-- [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
+- [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - This is a set of minimal scripts to run the emulator in a container for various systems such as Docker, for external consumption
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
