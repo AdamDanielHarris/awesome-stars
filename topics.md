@@ -1939,7 +1939,7 @@
 - [phonegap/phonegap-app-developer](https://github.com/phonegap/phonegap-app-developer) - PhoneGap Developer App
 - [Brian-Lam/Logitech-MX-Master-Key-Mapper-Linux](https://github.com/Brian-Lam/Logitech-MX-Master-Key-Mapper-Linux) - In lieu of Logitech providing Linux drivers for the MX Master series mice, here is a script to set up key mappings.
 - [cashapp/paparazzi](https://github.com/cashapp/paparazzi) - Render your Android screens without a physical device or emulator
-- [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - 
+- [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - This is a set of minimal scripts to run the emulator in a container for various systems such as Docker, for external consumption
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [rajewsky-lab/mirdeep2](https://github.com/rajewsky-lab/mirdeep2) - Discovering known and novel miRNAs from small RNA sequencing data
