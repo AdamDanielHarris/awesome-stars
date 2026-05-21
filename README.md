@@ -240,7 +240,7 @@
 - [apptainer/apptainer](https://github.com/apptainer/apptainer) - Apptainer: Application containers for Linux
 - [tailscale/ToBeReviewedBot](https://github.com/tailscale/ToBeReviewedBot) - GitHub App to watch for PRs merged without a reviewer approving.
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) - Main repository for Datadog Agent
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [jstaf/onedriver](https://github.com/jstaf/onedriver) - A native Linux filesystem for Microsoft OneDrive
 - [atredispartners/flamingo](https://github.com/atredispartners/flamingo) - Flamingo captures credentials sprayed across the network by various IT and security products.
@@ -279,6 +279,7 @@
 - [Nesvilab/MSFragger](https://github.com/Nesvilab/MSFragger) - Ultrafast, comprehensive peptide identification for mass spectrometry–based proteomics
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [bbc/rcookbook](https://github.com/bbc/rcookbook) - Reference manual for creating BBC-style graphics using the BBC's bbplot package built on top of R's ggplot2 library
+- [hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
 - [NBISweden/AGAT](https://github.com/NBISweden/AGAT) - Another Gtf/Gff Analysis Toolkit https://nbisweden.github.io/AGAT/
 - [waschinski/photo-stream](https://github.com/waschinski/photo-stream) - Self-hosted, super simple photo stream
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -795,7 +796,6 @@
 - [bbc/bbplot](https://github.com/bbc/bbplot) - R package that helps create and export ggplot2 charts in the style used by the BBC News data team
 - [hms-dbmi/UpSetR-orthologs](https://github.com/hms-dbmi/UpSetR-orthologs) - Shiny app to compute and visualize ortholog intersections across multiple species using UpSetR.
 - [hms-dbmi/UpSetR-shiny](https://github.com/hms-dbmi/UpSetR-shiny) - A Shiny wrapper for the UpSetR R package (https://github.com/hms-dbmi/UpSetR).
-- [hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
 - [liulab-dfci/RIMA_pipeline](https://github.com/liulab-dfci/RIMA_pipeline) - 
 - [thelovelab/fishpond](https://github.com/thelovelab/fishpond) - Differential expression and allelic analysis, nonparametric statistics
 - [msquatrito/shiny_GlioVis](https://github.com/msquatrito/shiny_GlioVis) - Data visualization tools for brain tumour  datasets
