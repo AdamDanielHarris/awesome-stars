@@ -1668,7 +1668,7 @@
 
 - [esn/knock](https://github.com/esn/knock) - Convert ACSM files to DRM-free EPUB files with one command on Linux
 - [rohitg00/awesome-openclaw](https://github.com/rohitg00/awesome-openclaw) - 
-- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
+- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill + Plugin Registry for OpenClaw
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [RoPieee/RoPieee](https://github.com/RoPieee/RoPieee) - An easy-to-use Raspberry Pi image for network audio streaming solutions
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
