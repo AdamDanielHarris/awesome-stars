@@ -39,6 +39,7 @@
 - [Monkey C](#monkey-c)
 - [Nextflow](#nextflow)
 - [Nix](#nix)
+- [Nushell](#nushell)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -129,6 +130,7 @@
 
 ## C++ 
 
+- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [hn/bsh-home-appliances](https://github.com/hn/bsh-home-appliances) - BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
 - [Byrom90/XeUnshackle](https://github.com/Byrom90/XeUnshackle) - Custom Xbox 360 app designed to be used with the Xbox360BadUpdate exploit. Applies a set of HV/Kernel patches & loads the Dashlaunch system module (launch.xex).
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
@@ -481,6 +483,8 @@
 
 ## Nix 
 
+- [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
+- [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler.
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [nix-community/raspberry-pi-nix](https://github.com/nix-community/raspberry-pi-nix) - NixOS modules to aid in configuring NixOS for raspberry pi products
@@ -494,6 +498,10 @@
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [headcounter/shabitica](https://github.com/headcounter/shabitica) - Run your own self-hosted Habitica instance
+
+## Nushell 
+
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 
 ## Others 
 
@@ -828,6 +836,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [001TMF/ProteinView](https://github.com/001TMF/ProteinView) - Terminal protein structure viewer — interactive 3D visualization of PDB/mmCIF structures with cartoon ribbons, braille rendering, and Sixel/Kitty graphics
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -1037,6 +1046,8 @@
 
 ## Zig 
 
+- [mitchellh/zig-graph](https://github.com/mitchellh/zig-graph) - Directed graph data structure for Zig
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [paralogical/rarest-move-in-chess](https://github.com/paralogical/rarest-move-in-chess) - Analyze compressed chess pgn files to determine the rarest move
 
 
