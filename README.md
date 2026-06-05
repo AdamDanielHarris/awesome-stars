@@ -583,6 +583,7 @@
 
 ## Python 
 
+- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 - [adrienmetais/adl](https://github.com/adrienmetais/adl) - Download ebooks from acsm file
 - [esn/knock](https://github.com/esn/knock) - Convert ACSM files to DRM-free EPUB files with one command on Linux
 - [rohitg00/awesome-openclaw](https://github.com/rohitg00/awesome-openclaw) - 
@@ -889,6 +890,7 @@
 
 ## Shell 
 
+- [eraycc/AutoGLM-TERMUX](https://github.com/eraycc/AutoGLM-TERMUX) - Quickly deploy Open-AutoGLM agent on Android phone using Termux. Support AI voice recognition and enable automated operation of your phone without Root or PC!
 - [aws-samples/sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials) - 
 - [duolingo/pulldozer](https://github.com/duolingo/pulldozer) - CLI tool for batch editing multiple repos :tractor:
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
