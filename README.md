@@ -84,6 +84,7 @@
 
 ## C 
 
+- [JonGilmore/vtech-baby-pro-bridge](https://github.com/JonGilmore/vtech-baby-pro-bridge) - Native bridge + reverse-engineering writeup that pulls live 1080p H.264 from a VTech Baby Pro (RM series) baby monitor over LAN - no cloud, no phone app. Republishes as RTSP/WebRTC for Frigate/Home As
 - [bahamas10/sshp](https://github.com/bahamas10/sshp) - Parallel SSH Executor
 - [Quentin-Anthony/nanoMPI](https://github.com/Quentin-Anthony/nanoMPI) - Simple MPI implementation for prototyping or learning
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
