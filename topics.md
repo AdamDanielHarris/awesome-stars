@@ -1157,6 +1157,7 @@
 
 ## home-assistant 
 
+- [JonGilmore/vtech-baby-pro-bridge](https://github.com/JonGilmore/vtech-baby-pro-bridge) - Native bridge + reverse-engineering writeup that pulls live 1080p H.264 from a VTech Baby Pro (RM series) baby monitor over LAN - no cloud, no phone app. Republishes as RTSP/WebRTC for Frigate/Home As
 - [hn/bsh-home-appliances](https://github.com/hn/bsh-home-appliances) - BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
@@ -2280,6 +2281,7 @@
 
 ## reverse-engineering 
 
+- [JonGilmore/vtech-baby-pro-bridge](https://github.com/JonGilmore/vtech-baby-pro-bridge) - Native bridge + reverse-engineering writeup that pulls live 1080p H.264 from a VTech Baby Pro (RM series) baby monitor over LAN - no cloud, no phone app. Republishes as RTSP/WebRTC for Frigate/Home As
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [strazzere/anti-emulator](https://github.com/strazzere/anti-emulator) - Android Anti-Emulator
 - [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
