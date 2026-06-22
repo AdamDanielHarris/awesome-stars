@@ -520,7 +520,7 @@
 - [andrewrech/antigen.garnish](https://github.com/andrewrech/antigen.garnish) - 
 - [dputhier/pygtftk](https://github.com/dputhier/pygtftk) - A python package and a set of shell commands to handle GTF files
 - [maxplanck-ie/parkour2](https://github.com/maxplanck-ie/parkour2) - Parkour2: Laboratory Information Management System  👩🏻‍🔬 🧬 👨🏽‍💻
-- [antigenomics/vdjmatch](https://github.com/antigenomics/vdjmatch) - [Deprectated, use vdjmatch2 instead] ⚙️ Matching T-cell repertoire against a database of TCR antigen specificities
+- [antigenomics/vdjmatch](https://github.com/antigenomics/vdjmatch) - Matching T-cell receptor repertoires to a database of antigen specificities
 - [urmi-21/orfipy](https://github.com/urmi-21/orfipy) - Fast and flexible ORF finder
 - [COMBINE-lab/salmon](https://github.com/COMBINE-lab/salmon) - 🐟 🍣 🍱 Highly-accurate & wicked fast transcript-level quantification from RNA-seq reads using selective alignment
 - [RickGelhausen/HRIBO](https://github.com/RickGelhausen/HRIBO) - We present HRIBO (High-throughput annotation by Ribo-seq), a workflow to enable reproducible and high-throughput analysis of bacterial Ribo-seq data. The workflow performs all required pre-processing 
