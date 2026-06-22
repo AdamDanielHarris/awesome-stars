@@ -710,7 +710,7 @@
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [jiujiezz/deephlapan](https://github.com/jiujiezz/deephlapan) - A deep learning approach for predicting high-confidence neoantigens by considering both the presentation possibilities of mutant peptides and the potential immunogenicity of pMHC
 - [pcpLiu/DeepSeqPanII](https://github.com/pcpLiu/DeepSeqPanII) - A sequence-based pan model for peptide-MHC II binding affinity prediction.
-- [antigenomics/vdjmatch](https://github.com/antigenomics/vdjmatch) - [Deprectated, use vdjmatch2 instead] ⚙️ Matching T-cell repertoire against a database of TCR antigen specificities
+- [antigenomics/vdjmatch](https://github.com/antigenomics/vdjmatch) - Matching T-cell receptor repertoires to a database of antigen specificities
 - [IdoSpringer/ERGO-II](https://github.com/IdoSpringer/ERGO-II) - ERGO-II, an updated version of ERGO including more features for TCR-peptide binding prediction
 - [openvax/gtfparse](https://github.com/openvax/gtfparse) - Parsing tools for GTF (gene transfer format) files
 - [openvax/pyensembl](https://github.com/openvax/pyensembl) - Python interface to access reference genome features (such as genes, transcripts, and exons) from Ensembl
