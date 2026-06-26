@@ -674,7 +674,7 @@
 ## compiler 
 
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
-- [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
+- [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Homomorphic Encryption demos
 
 ## computer-science 
 
@@ -712,7 +712,7 @@
 
 ## cryptography 
 
-- [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
+- [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Homomorphic Encryption demos
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
@@ -2115,7 +2115,7 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
-- [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
+- [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Homomorphic Encryption demos
 
 ## productivity 
 
