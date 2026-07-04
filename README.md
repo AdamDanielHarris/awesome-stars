@@ -750,7 +750,7 @@
 - [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) - This is a set of minimal scripts to run the emulator in a container for various systems such as Docker, for external consumption
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [mahmoodlab/CLAM](https://github.com/mahmoodlab/CLAM) - Open source tools for computational pathology - Nature BME
 - [hpreston/netdevops_demos](https://github.com/hpreston/netdevops_demos) - Resources and details for a variety of NetDevOps Demos.
 - [hpreston/python_networking](https://github.com/hpreston/python_networking) - Collection of scripts and examples of Python code, libraries, and utilities for working with Network Devices.
