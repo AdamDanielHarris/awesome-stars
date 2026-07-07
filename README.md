@@ -932,7 +932,6 @@
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [xai/scripts](https://github.com/xai/scripts) - Just a collection of various scripts.
-- [krathalan/krack](https://github.com/krathalan/krack) - Krathalan's packaging softwares for Arch
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [jasonc/scripts](https://github.com/jasonc/scripts) - System administration scripts.
 - [bgruening/docker-galaxy](https://github.com/bgruening/docker-galaxy) - :whale::bar_chart::books: Docker Images tracking the stable Galaxy releases.
