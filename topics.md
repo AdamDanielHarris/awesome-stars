@@ -2006,7 +2006,6 @@
 - [huijunchen9260/bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk
 - [openSUSE/transactional-update](https://github.com/openSUSE/transactional-update) - Atomic updates for Linux operating systems
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
-- [krathalan/krack](https://github.com/krathalan/krack) - Krathalan's packaging softwares for Arch
 - [petersilva/drobo-utils](https://github.com/petersilva/drobo-utils) - linux manager for older Drobo SAN units. (vintage 2008, likely has issues with current models.)
 - [dbeniamine/cheat.sh-vim](https://github.com/dbeniamine/cheat.sh-vim) - A vim plugin to access cheat.sh sheets
 - [grimm-co/NotQuite0DayFriday](https://github.com/grimm-co/NotQuite0DayFriday) - This is a repo which documents real bugs in real software to illustrate trends, learn how to prevent or find them more quickly.
