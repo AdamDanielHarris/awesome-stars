@@ -237,6 +237,7 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
+- [workflow](#workflow)
 - [xml](#xml)
 - [youtube](#youtube)
 - [zsh](#zsh)
@@ -1846,8 +1847,6 @@
 - [xjtu-omics/msisensor-rna](https://github.com/xjtu-omics/msisensor-rna) - MSIsensor-RNA: Microsatellite instability detection using RNA sequencing data
 - [demonsaw/Code](https://github.com/demonsaw/Code) - Demonsaw Source Code
 - [samyk/samytools](https://github.com/samyk/samytools) - Simple tools to make reverse engineering and console cowboying easier, primarily by data translation and manipulation + file handle piping. Mostly *nix tools with an emphasis on macOS.
-- [nf-core/hlatyping](https://github.com/nf-core/hlatyping) - Precision HLA typing from next-generation sequencing data
-- [nf-core/mhcquant](https://github.com/nf-core/mhcquant) - Identify and quantify MHC eluted peptides from mass spectrometry raw data
 - [gpertea/stringtie](https://github.com/gpertea/stringtie) - Transcript assembly and quantification for RNA-Seq
 - [gpertea/gffread](https://github.com/gpertea/gffread) - GFF/GTF utility providing format conversions, region filtering, FASTA sequence extraction and more
 - [gpertea/gffcompare](https://github.com/gpertea/gffcompare) - classify, merge, tracking and annotation of GFF files by comparing to a reference annotation GFF
@@ -1877,7 +1876,6 @@
 - [snakemake-workflows/dna-seq-neoantigen-prediction](https://github.com/snakemake-workflows/dna-seq-neoantigen-prediction) - Snakemake workflow for neoantigen prediction
 - [daler/gffutils](https://github.com/daler/gffutils) - GFF and GTF file manipulation and interconversion
 - [fls-bioinformatics-core/GFFUtils](https://github.com/fls-bioinformatics-core/GFFUtils) - Python module and utility programs for working with GFF files
-- [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes) - Customizable workflows based on snakemake and python for the analysis of NGS data
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [atredispartners/flamingo](https://github.com/atredispartners/flamingo) - Flamingo captures credentials sprayed across the network by various IT and security products.
 - [lgandx/Responder](https://github.com/lgandx/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication
@@ -1933,7 +1931,6 @@
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
 - [Motion-Project/motion](https://github.com/Motion-Project/motion) - Motion, a software motion detector.     Home page:  https://motion-project.github.io/
 - [deto/Snakemake_Tutorial](https://github.com/deto/Snakemake_Tutorial) - A short tutorial on getting started with Snakemake for workflow management
-- [lachlandeer/snakemake-econ-r](https://github.com/lachlandeer/snakemake-econ-r) - reproducible research project template for R using Renv and snakemake with an econ application
 - [deajan/osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
 - [openvax/mhcflurry](https://github.com/openvax/mhcflurry) - Peptide-MHC I binding affinity prediction
 - [openvax/neoantigen-vaccine-pipeline](https://github.com/openvax/neoantigen-vaccine-pipeline) - Bioinformatics pipeline for selecting patient-specific cancer neoantigen vaccines
@@ -2009,7 +2006,6 @@
 - [petersilva/drobo-utils](https://github.com/petersilva/drobo-utils) - linux manager for older Drobo SAN units. (vintage 2008, likely has issues with current models.)
 - [dbeniamine/cheat.sh-vim](https://github.com/dbeniamine/cheat.sh-vim) - A vim plugin to access cheat.sh sheets
 - [grimm-co/NotQuite0DayFriday](https://github.com/grimm-co/NotQuite0DayFriday) - This is a repo which documents real bugs in real software to illustrate trends, learn how to prevent or find them more quickly.
-- [nf-core/rnaseq](https://github.com/nf-core/rnaseq) - RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.
 - [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
 - [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
 - [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
@@ -2018,7 +2014,6 @@
 - [lucasnell/TaJoCGI](https://github.com/lucasnell/TaJoCGI) - Find CpG islands in genome
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [ttsiodras/utils](https://github.com/ttsiodras/utils) - Short shell/perl/python utils I wrote that I use every day.
-- [nf-core/rnafusion](https://github.com/nf-core/rnafusion) - RNA-seq analysis pipeline for detection of gene-fusions
 - [AdamGold/Dryvo](https://github.com/AdamGold/Dryvo) - Driving lessons made simpler. Custom scheduling API built with Python.
 - [databio/ericscript](https://github.com/databio/ericscript) - Chimeric transcript discovery
 - [bwasti/mebm](https://github.com/bwasti/mebm) - zero-dependency browser-based video editor
@@ -2659,6 +2654,19 @@
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal
+
+## workflow 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
+- [cylc/cylc-flow](https://github.com/cylc/cylc-flow) - Cylc: a general purpose workflow engine with a gift for cycling
+- [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
+- [nf-core/hlatyping](https://github.com/nf-core/hlatyping) - Precision HLA typing from next-generation sequencing data
+- [nf-core/mhcquant](https://github.com/nf-core/mhcquant) - Identify and quantify MHC eluted peptides from mass spectrometry raw data
+- [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes) - Customizable workflows based on snakemake and python for the analysis of NGS data
+- [lachlandeer/snakemake-econ-r](https://github.com/lachlandeer/snakemake-econ-r) - reproducible research project template for R using Renv and snakemake with an econ application
+- [nf-core/rnaseq](https://github.com/nf-core/rnaseq) - RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.
+- [nf-core/rnafusion](https://github.com/nf-core/rnafusion) - RNA-seq analysis pipeline for detection of gene-fusions
 
 ## xml 
 
