@@ -832,7 +832,7 @@
 - [bbc/wraith](https://github.com/bbc/wraith) - Wraith — A responsive screenshot comparison tool
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [FAIRMetrics/Metrics](https://github.com/FAIRMetrics/Metrics) - This repository contains the results of the FAIR Metrics Group
 
@@ -857,7 +857,7 @@
 - [Twometer/hyperbacked](https://github.com/Twometer/hyperbacked) - 🔐 Superbacked, but in Rust
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [memorysafety/river](https://github.com/memorysafety/river) - This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [RaphGL/Tuckr](https://github.com/RaphGL/Tuckr) - Super powered replacement for GNU Stow
