@@ -225,6 +225,7 @@
 
 ## Go 
 
+- [steipete/sonoscli](https://github.com/steipete/sonoscli) - Control SONOS speakers from your terminal.
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -583,6 +584,7 @@
 
 ## Python 
 
+- [SoCo/SoCo](https://github.com/SoCo/SoCo) - SoCo (Sonos Controller) is a Python project that allows you to programmatically control Sonos speakers.
 - [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 - [adrienmetais/adl](https://github.com/adrienmetais/adl) - Download ebooks from acsm file
 - [esn/knock](https://github.com/esn/knock) - Convert ACSM files to DRM-free EPUB files with one command on Linux
