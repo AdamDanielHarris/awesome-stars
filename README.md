@@ -727,7 +727,6 @@
 - [urmi-21/orfipy](https://github.com/urmi-21/orfipy) - Fast and flexible ORF finder
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [rglaue/plantuml_to_drawio](https://github.com/rglaue/plantuml_to_drawio) - Convert a file with PlantUML code into a Diagrams.net (a.k.a Draw.io) XML file from the command line
-- [moggers87/salmon](https://github.com/moggers87/salmon) - Moved to Codeberg
 - [lincolnloop/django-dynamic-raw-id](https://github.com/lincolnloop/django-dynamic-raw-id) - (formerly known as django-salmonella) A raw_id_fields widget replacement that handles display of an object's string value on change and can be overridden via a template.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [RickGelhausen/HRIBO](https://github.com/RickGelhausen/HRIBO) - We present HRIBO (High-throughput annotation by Ribo-seq), a workflow to enable reproducible and high-throughput analysis of bacterial Ribo-seq data. The workflow performs all required pre-processing 
