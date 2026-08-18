@@ -1848,7 +1848,7 @@
 - [signalbash/how_are_we_stranded_here](https://github.com/signalbash/how_are_we_stranded_here) - Check strandedness of RNA-Seq fastq files
 - [KDE/systemsettings](https://github.com/KDE/systemsettings) - Control center to configure your Plasma Desktop
 - [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get statistics and set activities
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+- [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
 - [tailscale/ToBeReviewedBot](https://github.com/tailscale/ToBeReviewedBot) - GitHub App to watch for PRs merged without a reviewer approving.
 - [NBISweden/AGAT](https://github.com/NBISweden/AGAT) - Another Gtf/Gff Analysis Toolkit https://nbisweden.github.io/AGAT/
 - [BrooksLabUCSC/flair](https://github.com/BrooksLabUCSC/flair) - Full-Length Alternative Isoform analysis of RNA
