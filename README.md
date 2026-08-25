@@ -495,7 +495,7 @@
 - [jason-m/whydoesnothing.work](https://github.com/jason-m/whydoesnothing.work) - Snippits, scripts and notes from youtube tutorials
 - [ornicar/nixos-config](https://github.com/ornicar/nixos-config) - Moved to https://github.com/ornicar/dotfiles
 - [vimjoyer/flake-starter-config](https://github.com/vimjoyer/flake-starter-config) - 
-- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
+- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256]
 - [ornicar/dotfiles](https://github.com/ornicar/dotfiles) - NixOs & Neovim
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
