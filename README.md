@@ -281,7 +281,6 @@
 
 - [ThioJoe/Browser-Based-Tools](https://github.com/ThioJoe/Browser-Based-Tools) - Thio's Browser-Based Tools: Various utilities and tools that run locally right in your browser
 - [Nesvilab/MSFragger](https://github.com/Nesvilab/MSFragger) - Ultrafast, comprehensive peptide identification for mass spectrometry–based proteomics
-- [sequana/sequana](https://github.com/sequana/sequana) - Sequana: a set of Snakemake NGS pipelines
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [bbc/rcookbook](https://github.com/bbc/rcookbook) - Reference manual for creating BBC-style graphics using the BBC's bbplot package built on top of R's ggplot2 library
 - [hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
@@ -348,7 +347,7 @@
 - [mudcube/MIDI.js](https://github.com/mudcube/MIDI.js) - :musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts f
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [gragland/chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
 - [Flupp/sticky-window-snapping](https://github.com/Flupp/sticky-window-snapping) - A KWin script which lets snapped window edges stick together when one window is resized.
@@ -600,7 +599,7 @@
 - [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [nmatt0/bletools](https://github.com/nmatt0/bletools) - BLE pentesting scripts
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording and mcp server
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana
 - [elastic/camera-hacks](https://github.com/elastic/camera-hacks) - PoC exploits and tools for conducting vulnerability research against AJCloud Wi-Fi security camera products
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
@@ -616,6 +615,7 @@
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [calliope-project/euro-calliope](https://github.com/calliope-project/euro-calliope) - A workflow to build models of the European electricity system for Calliope.
 - [uio-bmi/immuneML](https://github.com/uio-bmi/immuneML) - immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.
+- [sequana/sequana](https://github.com/sequana/sequana) - Sequana: a set of Snakemake NGS pipelines
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [SiliconDojo/Online-Classes](https://github.com/SiliconDojo/Online-Classes) - Notes, Slides and Code for Online Classes
