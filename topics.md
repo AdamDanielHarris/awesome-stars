@@ -2339,7 +2339,7 @@
 - [jonringer/nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - 🎹 Memorize piano scales with ease! A piano practice program w/ MIDI support. Consider it an interactive reference manual
 - [fosskers/aura](https://github.com/fosskers/aura) - A multilingual package manager for Arch Linux and the AUR.
