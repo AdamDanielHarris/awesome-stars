@@ -405,6 +405,7 @@
 
 ## Kotlin 
 
+- [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness) - Claude Code on Android:  AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root requi
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 - [pacjo/SmartspacerPlugins](https://github.com/pacjo/SmartspacerPlugins) - Home of Generic Weather, Local Battery, Sleep as Android and more
