@@ -620,6 +620,7 @@
 
 ## claude-code 
 
+- [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness) - Claude Code on Android:  AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root requi
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 ## cli 
