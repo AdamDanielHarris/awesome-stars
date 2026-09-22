@@ -531,7 +531,6 @@
 - [snakemake/snakefmt](https://github.com/snakemake/snakefmt) - The uncompromising Snakemake code formatter
 - [andrewrech/antigen.garnish](https://github.com/andrewrech/antigen.garnish) - 
 - [dputhier/pygtftk](https://github.com/dputhier/pygtftk) - A python package and a set of shell commands to handle GTF files
-- [maxplanck-ie/parkour2](https://github.com/maxplanck-ie/parkour2) - Parkour2: Laboratory Information Management System  👩🏻‍🔬 🧬 👨🏽‍💻
 - [antigenomics/vdjmatch](https://github.com/antigenomics/vdjmatch) - Matching T-cell receptor repertoires to a database of antigen specificities
 - [urmi-21/orfipy](https://github.com/urmi-21/orfipy) - Fast and flexible ORF finder
 - [COMBINE-lab/salmon](https://github.com/COMBINE-lab/salmon) - 🐟 🍣 🍱 Highly-accurate & wicked fast transcript-level quantification from RNA-seq reads using selective alignment
@@ -898,7 +897,6 @@
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [waschinski/photo-stream](https://github.com/waschinski/photo-stream) - Self-hosted, super simple photo stream
-- [maxplanck-ie/parkour2](https://github.com/maxplanck-ie/parkour2) - Parkour2: Laboratory Information Management System  👩🏻‍🔬 🧬 👨🏽‍💻
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
