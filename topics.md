@@ -10,6 +10,7 @@
 - [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
@@ -307,6 +308,11 @@
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+
+## ai-agent 
+
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 ## ai-agents 
 
@@ -1360,6 +1366,7 @@
 
 ## linux 
 
+- [termux/proot-distro](https://github.com/termux/proot-distro) - A utility for managing proot containers.
 - [adrienmetais/adl](https://github.com/adrienmetais/adl) - Download ebooks from acsm file
 - [NISH1001/playx](https://github.com/NISH1001/playx) - Search and play any song from terminal
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
@@ -2184,6 +2191,7 @@
 
 ## python 
 
+- [termux/proot-distro](https://github.com/termux/proot-distro) - A utility for managing proot containers.
 - [aman-roy/mp3_downloader](https://github.com/aman-roy/mp3_downloader) - A simple python program from which you can download the songs by just entering the name. You can also download by entering a list of name, youtube link or list of youtube links.
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana
 - [deeptools/deepTools](https://github.com/deeptools/deepTools) - Tools to process and analyze deep sequencing data.
@@ -2535,6 +2543,7 @@
 
 ## termux 
 
+- [termux/proot-distro](https://github.com/termux/proot-distro) - A utility for managing proot containers.
 - [davidkopp/termux-scripts](https://github.com/davidkopp/termux-scripts) - Termux scripts to simplify syncing of Git repositories with Android devices
 - [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X-server add-on.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
