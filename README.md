@@ -582,6 +582,7 @@
 
 ## Python 
 
+- [termux/proot-distro](https://github.com/termux/proot-distro) - A utility for managing proot containers.
 - [SoCo/SoCo](https://github.com/SoCo/SoCo) - SoCo (Sonos Controller) is a Python project that allows you to programmatically control Sonos speakers.
 - [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 - [adrienmetais/adl](https://github.com/adrienmetais/adl) - Download ebooks from acsm file
