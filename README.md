@@ -202,6 +202,7 @@
 
 ## Dart 
 
+- [InlitX/streak](https://github.com/InlitX/streak) - Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.
 - [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
 - [lamarios/clipious](https://github.com/lamarios/clipious) - Invidious client for android
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
