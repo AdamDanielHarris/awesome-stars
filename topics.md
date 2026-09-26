@@ -340,6 +340,7 @@
 
 ## android 
 
+- [InlitX/streak](https://github.com/InlitX/streak) - Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.
 - [appdevforall/CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) - Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 - [pacjo/SmartspacerPlugins](https://github.com/pacjo/SmartspacerPlugins) - Home of Generic Weather, Local Battery, Sleep as Android and more
@@ -769,6 +770,7 @@
 
 ## dart 
 
+- [InlitX/streak](https://github.com/InlitX/streak) - Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.
 - [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
 - [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.
@@ -1014,6 +1016,7 @@
 
 ## flutter 
 
+- [InlitX/streak](https://github.com/InlitX/streak) - Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.
 - [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
@@ -1121,6 +1124,7 @@
 
 ## google 
 
+- [InlitX/streak](https://github.com/InlitX/streak) - Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [google/vpn-libraries](https://github.com/google/vpn-libraries) - The VPN client libraries provide a reference implementation for a secure, encrypted tunnel for connected devices. Full Public report: https://research.nccgroup.com/2021/04/08/public-report-vpn-by-goog
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -1310,6 +1314,7 @@
 
 ## kotlin 
 
+- [InlitX/streak](https://github.com/InlitX/streak) - Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.
 - [appdevforall/CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) - Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [cyb3rko/flashdim](https://github.com/cyb3rko/flashdim) - Modern flashlight app with dim functionality on Android 13+
@@ -2145,6 +2150,7 @@
 
 ## privacy 
 
+- [InlitX/streak](https://github.com/InlitX/streak) - Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
 - [jonathanklee/Sapio](https://github.com/jonathanklee/Sapio) - Android apps that respect you
@@ -2164,6 +2170,7 @@
 
 ## productivity 
 
+- [InlitX/streak](https://github.com/InlitX/streak) - Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board for your terminal workflows
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
