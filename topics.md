@@ -890,7 +890,7 @@
 ## django 
 
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
-- [maxplanck-ie/parkour2](https://github.com/maxplanck-ie/parkour2) - Parkour2: Laboratory Information Management System  👩🏻‍🔬 🧬 👨🏽‍💻
+- [maxplanck-ie/parkour2](https://github.com/maxplanck-ie/parkour2) - Laboratory Information Management System  👩🏻‍🔬 🧬 👨🏽‍💻
 - [wodby/docker4python](https://github.com/wodby/docker4python) - Docker-based Python web stack (works for Django)
 - [sibtc/django-beginners-guide](https://github.com/sibtc/django-beginners-guide) - A Complete Beginner's Guide to Django - Code Samples
 - [abhi7585/Url-Shortner-Django](https://github.com/abhi7585/Url-Shortner-Django) - Created a Url Shatner using Django and deployed it on Heroku.
@@ -2671,7 +2671,7 @@
 ## vue 
 
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [maxplanck-ie/parkour2](https://github.com/maxplanck-ie/parkour2) - Parkour2: Laboratory Information Management System  👩🏻‍🔬 🧬 👨🏽‍💻
+- [maxplanck-ie/parkour2](https://github.com/maxplanck-ie/parkour2) - Laboratory Information Management System  👩🏻‍🔬 🧬 👨🏽‍💻
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 
 ## web 
