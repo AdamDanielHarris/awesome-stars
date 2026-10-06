@@ -692,7 +692,7 @@
 - [daler/gffutils](https://github.com/daler/gffutils) - GFF and GTF file manipulation and interconversion
 - [dputhier/pygtftk](https://github.com/dputhier/pygtftk) - A python package and a set of shell commands to handle GTF files
 - [fls-bioinformatics-core/GFFUtils](https://github.com/fls-bioinformatics-core/GFFUtils) - Python module and utility programs for working with GFF files
-- [maxplanck-ie/parkour2](https://github.com/maxplanck-ie/parkour2) - Parkour2: Laboratory Information Management System  👩🏻‍🔬 🧬 👨🏽‍💻
+- [maxplanck-ie/parkour2](https://github.com/maxplanck-ie/parkour2) - Laboratory Information Management System  👩🏻‍🔬 🧬 👨🏽‍💻
 - [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes) - Customizable workflows based on snakemake and python for the analysis of NGS data
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [lgandx/Responder](https://github.com/lgandx/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication
