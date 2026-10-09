@@ -15,7 +15,6 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
-- [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -196,10 +195,6 @@
 - [overtone/overtone](https://github.com/overtone/overtone) - Collaborative Programmable Music
 - [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
 
-## D 
-
-- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
-
 ## Dart 
 
 - [InlitX/streak](https://github.com/InlitX/streak) - Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.
@@ -229,7 +224,7 @@
 - [steipete/sonoscli](https://github.com/steipete/sonoscli) - Control SONOS speakers from your terminal.
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
@@ -795,6 +790,7 @@
 - [pawamoy/website](https://github.com/pawamoy/website) - My personal website.
 - [pawamoy/docker-nginx-auth-request-django-shiny-example](https://github.com/pawamoy/docker-nginx-auth-request-django-shiny-example) - Example using Docker, Nginx with auth-request module, and Django acting as a authentication wrapper around a Shiny app.
 - [fakefred/memethesis-cli](https://github.com/fakefred/memethesis-cli) - All your memes are belong to us!
+- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
 - [jonnyhyman/Chaos](https://github.com/jonnyhyman/Chaos) - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
 
