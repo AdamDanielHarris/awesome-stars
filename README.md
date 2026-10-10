@@ -283,6 +283,7 @@
 - [NBISweden/AGAT](https://github.com/NBISweden/AGAT) - Another Gtf/Gff Analysis Toolkit https://nbisweden.github.io/AGAT/
 - [waschinski/photo-stream](https://github.com/waschinski/photo-stream) - Self-hosted, super simple photo stream
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Microsoft-OpenSource-Labs/ansible-azure-lab](https://github.com/Microsoft-OpenSource-Labs/ansible-azure-lab) - Lab to play with Azure using Ansible playbooks
 - [ewels/sra-explorer](https://github.com/ewels/sra-explorer) - Web application to explore the Sequence Read Archive.
@@ -343,7 +344,6 @@
 - [mudcube/MIDI.js](https://github.com/mudcube/MIDI.js) - :musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts f
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [gragland/chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
 - [Flupp/sticky-window-snapping](https://github.com/Flupp/sticky-window-snapping) - A KWin script which lets snapped window edges stick together when one window is resized.
@@ -847,7 +847,7 @@
 - [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) - Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 - [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board for your terminal workflows
 - [bombsimon/awesome-garmin](https://github.com/bombsimon/awesome-garmin) - A list of Garmin application, both for Garmin devices and other tools
-- [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
+- [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux and macOS, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [ekimb/mapquik](https://github.com/ekimb/mapquik) - Efficient low-divergence mapping of long reads in minimizer space
@@ -869,7 +869,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [COMBINE-lab/salmon](https://github.com/COMBINE-lab/salmon) - 🐟 🍣 🍱 Highly-accurate & wicked fast transcript-level quantification from RNA-seq reads using selective alignment
