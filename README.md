@@ -15,6 +15,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -194,6 +195,10 @@
 - [nytimes/querqy-clj](https://github.com/nytimes/querqy-clj) - Search Query Rewriting for Elasticsearch and more! Built on Querqy.
 - [overtone/overtone](https://github.com/overtone/overtone) - Collaborative Programmable Music
 - [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
+
+## D 
+
+- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
 
 ## Dart 
 
@@ -791,7 +796,6 @@
 - [pawamoy/website](https://github.com/pawamoy/website) - My personal website.
 - [pawamoy/docker-nginx-auth-request-django-shiny-example](https://github.com/pawamoy/docker-nginx-auth-request-django-shiny-example) - Example using Docker, Nginx with auth-request module, and Django acting as a authentication wrapper around a Shiny app.
 - [fakefred/memethesis-cli](https://github.com/fakefred/memethesis-cli) - All your memes are belong to us!
-- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
 - [jonnyhyman/Chaos](https://github.com/jonnyhyman/Chaos) - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
 
