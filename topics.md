@@ -17,6 +17,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [ansible](#ansible)
 - [api](#api)
 - [archlinux](#archlinux)
@@ -420,6 +421,11 @@
 
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
+
+## animation 
+
+- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 
 ## ansible 
 
