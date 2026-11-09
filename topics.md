@@ -130,6 +130,7 @@
 - [jetpack-compose](#jetpack-compose)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -1337,6 +1338,10 @@
 ## jupyter-notebook 
 
 - [pwilmart/TMT_analysis_examples](https://github.com/pwilmart/TMT_analysis_examples) - Examples of TMT data analyses using R. Links to notebooks and repositories. Also a few spectral counting analyses.
+
+## knowledge-graph 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
 ## kotlin 
 
