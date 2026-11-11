@@ -248,6 +248,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [workflow](#workflow)
@@ -2740,6 +2741,10 @@
 
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [ruggleslab/rivet](https://github.com/ruggleslab/rivet) - Website source code for analysis of ribosome / polysome profiling
+
+## whatsapp 
+
+- [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based messaging client for Linux and macOS with Telegram, WhatsApp and Signal support
 
 ## windows 
 
