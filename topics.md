@@ -1115,7 +1115,7 @@
 - [angristan/awesome-stars](https://github.com/angristan/awesome-stars) - A curated list of my GitHub stars!
 - [ganttlab/ganttlab](https://github.com/ganttlab/ganttlab) - A live Gantt chart for GitLab and GitHub
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 ## github-api 
 
@@ -1406,6 +1406,7 @@
 
 ## linux 
 
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic code review for the Linux kernel and other critical open-source systems software
 - [termux/proot-distro](https://github.com/termux/proot-distro) - A utility for managing proot containers.
 - [adrienmetais/adl](https://github.com/adrienmetais/adl) - Download ebooks from acsm file
 - [NISH1001/playx](https://github.com/NISH1001/playx) - Search and play any song from terminal
@@ -1689,7 +1690,7 @@
 ## npm 
 
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 ## obsidian 
 
@@ -1763,7 +1764,6 @@
 - [markdown-viewer/skills](https://github.com/markdown-viewer/skills) - Opinionated skills for AI coding agents to create stunning diagrams and visualizations directly in Markdown. These skills extend agent capabilities across diagram generation, data visualization, and t
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
-- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
 - [SoCo/SoCo](https://github.com/SoCo/SoCo) - SoCo (Sonos Controller) is a Python project that allows you to programmatically control Sonos speakers.
 - [eraycc/AutoGLM-TERMUX](https://github.com/eraycc/AutoGLM-TERMUX) - Quickly deploy Open-AutoGLM agent on Android phone using Termux. Support AI voice recognition and enable automated operation of your phone without Root or PC!
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.
@@ -2439,6 +2439,7 @@
 
 ## security 
 
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic code review for the Linux kernel and other critical open-source systems software
 - [elastic/camera-hacks](https://github.com/elastic/camera-hacks) - PoC exploits and tools for conducting vulnerability research against AJCloud Wi-Fi security camera products
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
