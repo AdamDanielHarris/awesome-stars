@@ -234,7 +234,7 @@
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortl
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [x-way/iptables-tracer](https://github.com/x-way/iptables-tracer) - Insert trace-points into the running configuration to observe the path of packets through the iptables chains.
-- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -371,6 +371,7 @@
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [bwasti/mebm](https://github.com/bwasti/mebm) - zero-dependency browser-based video editor
@@ -455,7 +456,6 @@
 ## MDX 
 
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
@@ -849,12 +849,12 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [001TMF/ProteinView](https://github.com/001TMF/ProteinView) - Terminal protein structure viewer — interactive 3D visualization of PDB/mmCIF structures with cartoon ribbons, braille rendering, and Sixel/Kitty graphics
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) - Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 - [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board for your terminal workflows
 - [bombsimon/awesome-garmin](https://github.com/bombsimon/awesome-garmin) - A list of Garmin application, both for Garmin devices and other tools
-- [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - GlobalProtect VPN client and CLI for macOS, Linux, FreeBSD, and OpenBSD. Built in Rust with SAML SSO, MFA, YubiKey, client certificates, and local SOCKS5 proxy mode.
+- [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - GlobalProtect VPN client for Windows, macOS, Linux, FreeBSD, and OpenBSD. Built in Rust with SAML SSO, MFA, YubiKey, client certificates, and local SOCKS5 proxy mode.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [ekimb/mapquik](https://github.com/ekimb/mapquik) - Efficient low-divergence mapping of long reads in minimizer space
@@ -1032,7 +1032,7 @@
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [1000ch/whale](https://github.com/1000ch/whale) - Unofficial Trello app :whale:
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
-- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is an open-source platform for building custom IDEs and tools for browser and desktop. It includes Theia AI, the vendor-neutral AI harness platform, and powers the AI-native Theia IDE.
 - [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
 - [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
