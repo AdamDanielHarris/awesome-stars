@@ -946,7 +946,7 @@
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [jasonc/scripts](https://github.com/jasonc/scripts) - System administration scripts.
 - [bgruening/docker-galaxy](https://github.com/bgruening/docker-galaxy) - :whale::bar_chart::books: Docker Images tracking the stable Galaxy releases.
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server running inside a container.
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [rongfengliang/cloudbeaver-docker](https://github.com/rongfengliang/cloudbeaver-docker) - cloudbeaver-docker
 - [MrJBuck/Pi-otg](https://github.com/MrJBuck/Pi-otg) - 
