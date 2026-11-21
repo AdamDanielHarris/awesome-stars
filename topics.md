@@ -2119,7 +2119,7 @@
 - [AdamGold/Dryvo](https://github.com/AdamGold/Dryvo) - Driving lessons made simpler. Custom scheduling API built with Python.
 - [databio/ericscript](https://github.com/databio/ericscript) - Chimeric transcript discovery
 - [bwasti/mebm](https://github.com/bwasti/mebm) - zero-dependency browser-based video editor
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server running inside a container.
 - [ndaniel/fusioncatcher](https://github.com/ndaniel/fusioncatcher) - Finder of Somatic Fusion Genes in RNA-seq data
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [dynup/kpatch](https://github.com/dynup/kpatch) - NOTICE: kpatch is deprecated
